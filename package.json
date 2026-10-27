@@ -1,0 +1,13 @@
+{
+  "name": "freelance-portfolio",
+  "version": "1.0.0",
+  "description": "Freelance Web Developer Portfolio",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  },
+  "keywords": ["portfolio", "freelance", "web-developer"],
+  "author": "",
+  "license": "ISC"
+}
